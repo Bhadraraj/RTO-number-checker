@@ -12,7 +12,7 @@ body {
 .myDiv {
     background-color: #F0ECE5;
     color: #012970;
-    height: 170px;
+    height:fit-content;
     width: 280px;
     padding: 20px 30px 30px 30px;
     margin: 10px;
